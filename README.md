@@ -1,5 +1,15 @@
 # 2D-Fracture-Problem
 FEniCS implementation (Python interface) of 2D Fracture Problem \vspace{3mm}
 The implementation follows:
+** Quasi-Static **
 > Miehe, Hofacker, Welschinger (2010) A phase filed model for rate-independent crack propagation: Robust algorithmic implementation based on operator splits. 
-<img width="690" alt="image" src="https://user-images.githubusercontent.com/93891863/159413248-6a806f93-81ea-4c49-baa8-feaa7cabcbb5.png">
+> C.Miehe 2010, Thermodynamically consistent phase-ﬁeld models of fracture : Variational principles and multi-ﬁeld FE implementations 
+** Dynamic **
+> Kamensky (2016) Hyperbolic phase field modeling of brittle fracture: Part I-Theory and simulation
+> Bourdin (2012) Isogeometric Analysis of Phase-Field Models for Dynamics Brittle and Ductile Fracture
+> Miehe (2010) Thermodynamically consistent phase field models for fracture: Variational principles and Multi-field FE implementation
+
+
+
+
+
